@@ -5,8 +5,8 @@ Este projeto é uma aplicação desktop desenvolvida em Python com uma interface
 ## Telas da Aplicação
 
 **Telas**
-[Tela Principal]([https://t3rcio.com.br/assets/Tela__1__2025-05-16_23-12-11.png])
-[Tela com Imagem e Resultado]([https://t3rcio.com.br/assets/Tela__2__2025-05-16_23-13-01.png])
+![Tela Principal](https://t3rcio.com.br/assets/Tela__1__2025-05-16_23-12-11.png)
+![Tela com Imagem e Resultado](https://t3rcio.com.br/assets/Tela__2__2025-05-16_23-13-01.png)
 
 ## Funcionalidades
 
